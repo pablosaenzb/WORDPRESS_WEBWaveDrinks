@@ -1,0 +1,24 @@
+[17-Sep-2019 17:07:06 UTC] PHP Warning:  Illegal string offset 'height' in /home/m9f3syqsw96a/public_html/wp-content/plugins/astra-sites/inc/importers/class-astra-sites-helper.php on line 278
+[17-Sep-2019 17:07:06 UTC] PHP Warning:  Illegal string offset 'width' in /home/m9f3syqsw96a/public_html/wp-content/plugins/astra-sites/inc/importers/class-astra-sites-helper.php on line 279
+[29-Sep-2019 16:01:50 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/m9f3syqsw96a/public_html/wp-content/plugins/wpt-whatsapp/view/settings.php on line 175
+[29-Sep-2019 16:01:50 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/m9f3syqsw96a/public_html/wp-content/plugins/wpt-whatsapp/view/settings.php on line 201
+[24-Oct-2019 20:56:07 UTC] PHP Fatal error:  Cannot redeclare RSSSL() (previously declared in /home/m9f3syqsw96a/public_html/wp-content/plugins/really-simple-ssl/rlrsssl-really-simple-ssl.php:134) in /home/m9f3syqsw96a/public_html/wp-content/plugins/really-simple-ssl.back/rlrsssl-really-simple-ssl.php on line 135
+[24-Oct-2019 20:56:09 UTC] PHP Fatal error:  Cannot redeclare RSSSL() (previously declared in /home/m9f3syqsw96a/public_html/wp-content/plugins/really-simple-ssl/rlrsssl-really-simple-ssl.php:134) in /home/m9f3syqsw96a/public_html/wp-content/plugins/really-simple-ssl.back/rlrsssl-really-simple-ssl.php on line 135
+[24-Oct-2019 20:56:09 UTC] PHP Fatal error:  Cannot redeclare RSSSL() (previously declared in /home/m9f3syqsw96a/public_html/wp-content/plugins/really-simple-ssl/rlrsssl-really-simple-ssl.php:134) in /home/m9f3syqsw96a/public_html/wp-content/plugins/really-simple-ssl.back/rlrsssl-really-simple-ssl.php on line 135
+[14-Dec-2019 18:32:27 UTC] Batch Process Started!
+[14-Dec-2019 18:32:27 UTC] Queuing 2.1.3 - astra_submenu_below_header
+[16-Jan-2020 15:50:50 UTC] Astra: Batch Process Started!
+[16-Jan-2020 15:50:50 UTC] Astra: Queuing 2.2.0 - astra_page_builder_button_color_compatibility
+[16-Jan-2020 15:50:50 UTC] Astra: Queuing 2.2.0 - astra_vertical_horizontal_padding_migration
+[21-Feb-2020 14:31:06 UTC] Astra: Batch Process Started!
+[21-Feb-2020 14:31:06 UTC] Astra: Queuing 2.3.0 - astra_header_button_new_options
+[21-Feb-2020 14:31:07 UTC] Astra: Migrating button url - #https://wavedrinkseventos.com/wp-admin/customize.php?return=%2Fwp-admin%2Fpost.php%3Fpost%3D315%26action%3Dedit
+[21-Feb-2020 14:31:07 UTC] Astra: db version updated successfully!
+[21-Feb-2020 14:31:07 UTC] Astra: Batch Process Completed!
+[02-Apr-2020 21:57:20 UTC] PHP Warning:  chmod(): No such file or directory in /home/m9f3syqsw96a/public_html/wp-admin/includes/class-wp-filesystem-direct.php on line 168
+[02-Apr-2020 22:00:29 UTC] Astra: Batch Process Started!
+[02-Apr-2020 22:00:29 UTC] Astra: Queuing 2.3.3 - astra_elementor_default_color_typo_comp
+[02-Apr-2020 22:00:29 UTC] Astra: Queuing 2.3.4 - astra_breadcrumb_separator_fix
+[08-Feb-2022 00:58:19 UTC] Astra: Migrating Background Option - footer-bg-obj
+[08-Feb-2022 00:58:19 UTC] Astra: Migrating Background Response Option - site-layout-outside-bg-obj-responsive
+[04-Mar-2024 17:43:15 UTC] PHP Warning:  exec() has been disabled for security reasons in /home/m9f3syqsw96a/public_html/wp-admin/includes/class-wp-debug-data.php on line 658
